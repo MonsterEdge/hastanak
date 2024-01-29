@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Büyük ekranlar için arayüz elemanlarının boyutlarını tanımlayan değerler -->
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="button_width">160dp</dimen>
+    <dimen name="button_height">64dp</dimen>
+    <dimen name="edit_text_width">320dp</dimen>
+    <dimen name="edit_text_height">48dp</dimen>
+
+    <!-- Büyük ekranlar için arayüz elemanlarının kenar boşluklarını tanımlayan değerler -->
+    <dimen name="margin_top">24dp</dimen>
+    <dimen name="margin_bottom">24dp</dimen>
+    <dimen name="margin_left">24dp</dimen>
+    <dimen name="margin_right">24dp</dimen>
+
+    <!-- Büyük ekranlar için arayüz elemanlarının dolgularını tanımlayan değerler -->
+    <dimen name="padding_top">12dp</dimen>
+    <dimen name="padding_bottom">12dp</dimen>
+    <dimen name="padding_left">12dp</dimen>
+    <dimen name="padding_right">12dp</dimen>
+</resources>

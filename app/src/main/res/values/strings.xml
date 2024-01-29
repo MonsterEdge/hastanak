@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HastaNakilUygulamasi2</string>
+    <string name="name_hint">Hasta Adı</string>
+    <string name="diagnosis_hint">Hasta Tanısı</string>
+    <string name="from_hospital_hint">Nakil Edildiği Hastane</string>
+    <string name="to_hospital_hint">Nakil Edileceği Hastane</string>
+    <string name="date_hint">Nakil Tarihi</string>
+    <string name="save_button_text">Kaydet</string>
+</resources>

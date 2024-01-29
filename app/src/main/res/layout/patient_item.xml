@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Hasta adı metni -->
+    <TextView
+        android:id="@+id/name_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hasta Adı"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <!-- Hasta tanısı metni -->
+    <TextView
+        android:id="@+id/diagnosis_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hasta Tanısı"
+        android:textSize="16sp" />
+
+    <!-- Nakil edildiği hastane metni -->
+    <TextView
+        android:id="@+id/from_hospital_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nakil Edildiği Hastane"
+        android:textSize="16sp" />
+
+    <!-- Nakil edileceği hastane metni -->
+    <TextView
+        android:id="@+id/to_hospital_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nakil Edileceği Hastane"
+        android:textSize="16sp" />
+
+    <!-- Nakil tarihi metni -->
+    <TextView
+        android:id="@+id/date_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nakil Tarihi"
+        android:textSize="16sp" />
+
+</LinearLayout>
